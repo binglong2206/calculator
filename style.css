@@ -1,0 +1,10 @@
+.displayHistory {
+    height: 30px;
+    border-style: solid;
+    font-size: 1.2em;
+}
+.displayOutput {
+    height: 40px;
+    border-style: solid;
+    font-size: 1.5em
+}
